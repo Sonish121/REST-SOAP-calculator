@@ -150,14 +150,6 @@ To add new operations:
 3. Add the operation to the SOAP service methods in `soap_api/app.py`
 4. Update the tests accordingly
 
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 
 ## TEST
 
